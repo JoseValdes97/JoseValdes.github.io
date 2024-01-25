@@ -3,19 +3,21 @@ project:
   output-dir: docs
   render: 
     - index.qmd
-
+    - series.qmd
 website:
-  title: "Jose Valdés Domínguez"
+  title: "JV97"
   
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: series.qmd
+        text: Time series
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 

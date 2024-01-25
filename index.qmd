@@ -1,9 +1,16 @@
 ---
-title: "Jos� Vald�s Dom�nguez"
+title: "José Valdés Domínguez"
+lang: es
 ---
 
-This is a Quarto website.
+## Hola!
 
-```{r}
-1 + 1
-```
+Me llamo José Valdés, soy estadístico en proceso de la Universidad Nacional de Colombia. Me apasionan las matemáticas y me especializo en el desarrollo de métodos estadísticos para el análisis de datos.
+
+Fuera del trabajo, soy cofundador de [Neofilos](https://www.instagram.com/neofilos_/?hl=es-la){.external target="_blank"}, un proyecto de divulgación de matemáticas y economía. Junto al economista Camilo Andrés Jaimes Gonzales, trabajamos para acercar estas disciplinas a un público más amplio.
+
+Me gusta enseñar lo que he aprendido y ayudar a otros a desarrollar sus habilidades. Creo que la divulgación es una forma importante de contribuir a la sociedad y de aprender más sobre nosotros mismos.
+
+Bienvenido a mi página web. Aquí podrás conocer más sobre mi trabajo, mis intereses y mis proyectos.
+
+Conoce mi Curriculum vitae here.
