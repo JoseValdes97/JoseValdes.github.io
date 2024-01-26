@@ -1,6 +1,20 @@
 ---
 title: "José Valdés Domínguez"
+image: imagen/foto-mia.jpg #foto
 lang: es
+toc: false #Elimina el en esta pagina
+about:
+      template: solana
+      links: 
+        - icon: linkdin 
+          text: LinkedIn
+          href: https://www.linkedin.com/in/jose-armando-valdes-dominguez-b40739283
+        - icon: twitter
+          text: Neofilos
+          href: https://twitter.com/neofilos_
+        - icon: github
+          text: GitHub
+          href: https://github.com/JoseValdes97
 ---
 
 ## Hola!

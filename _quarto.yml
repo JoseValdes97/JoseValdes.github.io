@@ -8,12 +8,28 @@ website:
   title: "JV97"
   
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - href: series.qmd
         text: Time series
+    right: 
+      - icon: github
+        href: https://github.com/JoseValdes97?tab=repositories
+      - icon: youtube
+        href: https://www.youtube.com/@neofilos1576
+        
+  page-footer: 
+   background: light
+   left:
+   - icon: envelope
+     text: jvaldesd@unal.edu.co
+   right: 
+   - "Copyright 2024, José Valdés Domínguez"
+   
 
 format:
   html:
