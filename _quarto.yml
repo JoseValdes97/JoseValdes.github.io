@@ -17,7 +17,7 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: Darkly
     css: styles.css
     toc: true
 
