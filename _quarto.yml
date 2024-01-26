@@ -5,6 +5,7 @@ project:
     - index.qmd
     - series.qmd
 website:
+  favicon: /imagen/logo/JV97-logos4.jpeg
   title: "JV97"
   
   navbar:
