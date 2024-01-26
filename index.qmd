@@ -4,7 +4,7 @@ image: imagen/foto-mia.jpg #foto
 lang: es
 toc: false #Elimina el en esta pagina
 about:
-      template: solana
+      template: solana #template para presentarme
       links: 
         - icon: linkdin 
           text: LinkedIn
