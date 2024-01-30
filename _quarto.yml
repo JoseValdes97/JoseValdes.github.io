@@ -10,6 +10,7 @@ website:
   
   navbar:
     background: primary
+    #logo: /imagen/logo/jv97log.png
     search: true
     left:
       - href: index.qmd
@@ -23,6 +24,7 @@ website:
       - icon: youtube
         href: https://www.youtube.com/@neofilos1576
         
+ 
   page-footer: 
    background: light
    left:
@@ -36,9 +38,7 @@ website:
 
 format:
   html:
-    theme: 
-      - Darkly
-    css: styles.css
+    theme: Flatly
     toc: true
 
 editor: visual
