@@ -6,6 +6,6 @@ toc: false
 
 ## Modelo ARIMA
 
-Modelamiento ......
+Modelo ARIMA aplicado al valor de cierre del bitcoin en bolsa para una ventana de tiempo de 5 años.
 
 -   [Bitcoin](/HTML/ARIMA-BITCOIN.html)
