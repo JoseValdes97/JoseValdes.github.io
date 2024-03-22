@@ -4,6 +4,7 @@ project:
   render: 
     - index.qmd
     - series.qmd
+    - Teo Est. Riesgo.qmd
 website:
   favicon: /imagen/logo/JV97-logos4.jpeg
   title: "JV97"
@@ -18,6 +19,8 @@ website:
       - about.qmd
       - href: series.qmd
         text: Time series
+      - href: Teo Est. Riesgo.qmd
+        text: Statistical Risk
     right: 
       - icon: github
         href: https://github.com/JoseValdes97?tab=repositories
