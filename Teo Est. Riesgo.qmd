@@ -8,6 +8,6 @@ toc: false
 
 Se busca encontrar la mejor manera de modelar la cantidad de siniestros para un año de dos carteras de pólizas de seguros de automóviles.
 
--   Usando distribuciones clásicas para ello [Frecuencias1](/HTML/Tarea 1.html)
--  Para mejorar el ajuste se prueba con mezclas de distribuciones y el método de usar 0 infladas, donde se le da más peso a este valor [Frecuencias2](/HTML/Tarea 2.html).
-- Ahora tenemos en cuenta que estas reclamaciones tiene un espacio de tiempo y ajustamos procesos para las distribuciones [Frecuanicas3](/HTML/Tarea 2.2.html)
+-   Usando distribuciones clásicas para ello [Frecuencias1](/HTML/Tarea%201.html)
+-   Para mejorar el ajuste se prueba con mezclas de distribuciones y el método de usar 0 infladas, donde se le da más peso a este valor [Frecuencias2](/HTML/Tarea%202.html).
+-   Ahora tenemos en cuenta que estas reclamaciones tiene un espacio de tiempo y ajustamos procesos para las distribuciones [Frecuencias3](/HTML/Tarea%202.2.html)

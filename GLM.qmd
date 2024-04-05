@@ -1,0 +1,9 @@
+---
+title: "Modelos Lineales Generalizados"
+lang: es
+toc: false
+---
+
+## Modelos Variables continua
+
+-   Usando los datos de una pieza de metal con el objetivo de determinar si la cantidad de ciclos de vida de una pieza de metal puede ser explicada por la cantidad de trabajo por ciclo, para ello ase hace uso de *modelos lineales generalizados* de la siguiente manera : [Ciclos-Vida](HTML/Taller%201.html).
