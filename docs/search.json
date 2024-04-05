@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "Teo Est. Riesgo.html",
-    "href": "Teo Est. Riesgo.html",
-    "title": "Teoría estadística del riesgo",
+    "objectID": "GLM.html",
+    "href": "GLM.html",
+    "title": "Modelos Lineales Generalizados",
     "section": "",
-    "text": "Se busca encontrar la mejor manera de modelar la cantidad de siniestros para un año de dos carteras de pólizas de seguros de automóviles.\n\nUsando distribuciones clásicas para ello Frecuencias1\nPara mejorar el ajuste se prueba con mezclas de distribuciones y el método de usar 0 infladas, donde se le da más peso a este valor Frecuencias2.\nAhora tenemos en cuenta que estas reclamaciones tiene un espacio de tiempo y ajustamos procesos para las distribuciones Frecuanicas3"
+    "text": "Usando los datos de una pieza de metal con el objetivo de determinar si la cantidad de ciclos de vida de una pieza de metal puede ser explicada por la cantidad de trabajo por ciclo, para ello ase hace uso de modelos lineales generalizados de la siguiente manera : Ciclos-Vida."
   },
   {
-    "objectID": "Teo Est. Riesgo.html#modelos-de-frecuencia",
-    "href": "Teo Est. Riesgo.html#modelos-de-frecuencia",
-    "title": "Teoría estadística del riesgo",
+    "objectID": "GLM.html#modelos-variables-continua",
+    "href": "GLM.html#modelos-variables-continua",
+    "title": "Modelos Lineales Generalizados",
     "section": "",
-    "text": "Se busca encontrar la mejor manera de modelar la cantidad de siniestros para un año de dos carteras de pólizas de seguros de automóviles.\n\nUsando distribuciones clásicas para ello Frecuencias1\nPara mejorar el ajuste se prueba con mezclas de distribuciones y el método de usar 0 infladas, donde se le da más peso a este valor Frecuencias2.\nAhora tenemos en cuenta que estas reclamaciones tiene un espacio de tiempo y ajustamos procesos para las distribuciones Frecuanicas3"
+    "text": "Usando los datos de una pieza de metal con el objetivo de determinar si la cantidad de ciclos de vida de una pieza de metal puede ser explicada por la cantidad de trabajo por ciclo, para ello ase hace uso de modelos lineales generalizados de la siguiente manera : Ciclos-Vida."
+  },
+  {
+    "objectID": "series.html",
+    "href": "series.html",
+    "title": "Series de tiempo",
+    "section": "",
+    "text": "Modelo ARIMA aplicado al valor de cierre del bitcoin en bolsa para una ventana de tiempo de 5 años.\n\nBitcoin"
+  },
+  {
+    "objectID": "series.html#modelo-arima",
+    "href": "series.html#modelo-arima",
+    "title": "Series de tiempo",
+    "section": "",
+    "text": "Modelo ARIMA aplicado al valor de cierre del bitcoin en bolsa para una ventana de tiempo de 5 años.\n\nBitcoin"
   },
   {
     "objectID": "index.html",
@@ -28,17 +42,17 @@
     "text": "Me llamo José Valdés, soy estadístico en proceso de la Universidad Nacional de Colombia. Me apasionan las matemáticas y me especializo en el desarrollo de métodos estadísticos para el análisis de datos.\nFuera del trabajo, soy cofundador de Neofilos, un proyecto de divulgación de matemáticas y economía. Junto al economista Camilo Andrés Jaimes Gonzales, trabajamos para acercar estas disciplinas a un público más amplio.\nMe gusta enseñar lo que he aprendido y ayudar a otros a desarrollar sus habilidades. Creo que la divulgación es una forma importante de contribuir a la sociedad y de aprender más sobre nosotros mismos.\nBienvenido a mi página web. Aquí podrás conocer más sobre mi trabajo, mis intereses y mis proyectos.\nConoce mi Curriculum vitae aquí."
   },
   {
-    "objectID": "series.html",
-    "href": "series.html",
-    "title": "Series de tiempo",
+    "objectID": "Teo Est. Riesgo.html",
+    "href": "Teo Est. Riesgo.html",
+    "title": "Teoría estadística del riesgo",
     "section": "",
-    "text": "Modelo ARIMA aplicado al valor de cierre del bitcoin en bolsa para una ventana de tiempo de 5 años.\n\nBitcoin"
+    "text": "Se busca encontrar la mejor manera de modelar la cantidad de siniestros para un año de dos carteras de pólizas de seguros de automóviles.\n\nUsando distribuciones clásicas para ello Frecuencias1\nPara mejorar el ajuste se prueba con mezclas de distribuciones y el método de usar 0 infladas, donde se le da más peso a este valor Frecuencias2.\nAhora tenemos en cuenta que estas reclamaciones tiene un espacio de tiempo y ajustamos procesos para las distribuciones Frecuencias3"
   },
   {
-    "objectID": "series.html#modelo-arima",
-    "href": "series.html#modelo-arima",
-    "title": "Series de tiempo",
+    "objectID": "Teo Est. Riesgo.html#modelos-de-frecuencia",
+    "href": "Teo Est. Riesgo.html#modelos-de-frecuencia",
+    "title": "Teoría estadística del riesgo",
     "section": "",
-    "text": "Modelo ARIMA aplicado al valor de cierre del bitcoin en bolsa para una ventana de tiempo de 5 años.\n\nBitcoin"
+    "text": "Se busca encontrar la mejor manera de modelar la cantidad de siniestros para un año de dos carteras de pólizas de seguros de automóviles.\n\nUsando distribuciones clásicas para ello Frecuencias1\nPara mejorar el ajuste se prueba con mezclas de distribuciones y el método de usar 0 infladas, donde se le da más peso a este valor Frecuencias2.\nAhora tenemos en cuenta que estas reclamaciones tiene un espacio de tiempo y ajustamos procesos para las distribuciones Frecuencias3"
   }
 ]
